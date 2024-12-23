@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/FindSmallestGrou.dir/task_1.cpp.o -o FindSmallestGrou 

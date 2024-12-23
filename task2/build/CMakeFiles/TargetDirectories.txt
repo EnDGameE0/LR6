@@ -1,0 +1,3 @@
+/home/endgame/endgame/ОаИП/LR6/task2/build/CMakeFiles/Task2.dir
+/home/endgame/endgame/ОаИП/LR6/task2/build/CMakeFiles/edit_cache.dir
+/home/endgame/endgame/ОаИП/LR6/task2/build/CMakeFiles/rebuild_cache.dir
